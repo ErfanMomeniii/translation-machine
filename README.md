@@ -1,2 +1,2 @@
 # translation-machine
-an implementation of machine translation using Recurrent Neural Networks (RNN)
+Simple LLM translator app by using llama2 and prompt engineering
